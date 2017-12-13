@@ -2,7 +2,7 @@
 
 Something new about JavaScript
 
-![](./ekohe-logo.png)
+![](../ekohe-logo.png)
 
 baurine@2017/09/15
 
@@ -51,7 +51,7 @@ For example: Podknife project, download a rss xml, check image_url.
         })
       }
 	) // a callback nest a callback, it is called callback hell
-    
+
 ---
 
 ## Why it doesn't happen in Ruby or other languages?
@@ -61,7 +61,7 @@ What it looks like in ruby (ignore error handle):
 	def check_image_url
       @xml = Feedjira::Feed.connection(@rss_url).get.body
       // slow, wait until network response back
-      @feed = Feedjira::Feed.parse_with 
+      @feed = Feedjira::Feed.parse_with
                 Feedjira::Parser::ITunesRSS, @xml
       // slow, wait until parse finish
       @image_valid = RestClient.get(@feed.image_url)
@@ -158,11 +158,11 @@ Let's take an overview on how their codes look like first.
       res = await fetch(image_url)
       return res.ok
     }
-    
+
     // don't need co() method
     check_image_url("http:/xxx")
-    
-    
+
+
 ---
 
 ## Promise
@@ -194,11 +194,11 @@ Resource: [JavaScript Promise 迷你书](http://liubin.org/promises-book/)
         reject(ranVal)
       }
     })
-    .then(val => console.log('step2 - success:', val), 
+    .then(val => console.log('step2 - success:', val),
           val => console.log('step2 - failed:', val))
 
     console.log('step3')
-    
+
 ---
 
 ## Example
@@ -229,12 +229,12 @@ Resource: [JavaScript Promise 迷你书](http://liubin.org/promises-book/)
     for (let i=0; i<langs.length; i++) {
       console.log(langs[i])
     }
-    
+
     // example 2
     for (const l of langs) {
       console.log(l)
     }
-    
+
 Do you have any questions about the above code?
 
 Why the example 2 can remember where the code ran last time?
@@ -314,7 +314,7 @@ Notice:
     }
 
     var it = foo( 5 );
-    
+
 Guess what y and z value will be?
 
 Any values, it depends on the parameter it passed to `next()`
@@ -344,7 +344,7 @@ How a generator implements async call?
       // check whether yieldedVal is whether a promise
       if (yieldVal.then) {
         // notice the parameter is gen.next, not gen.next()
-        yieldVal.then(val => gen.next(val)) 
+        yieldVal.then(val => gen.next(val))
       }
       ...
     }
