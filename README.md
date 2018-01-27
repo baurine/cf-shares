@@ -4,7 +4,7 @@ My Creative Friday shares.
 
 1. Introduce some sketch plugin and tool - measure, zeplin
 1. About Materail Design
-1. Android Practice
+1. [Android Practice](./cf-android-practice/android-practice.key)
 1. React Native Introduce
 1. React & Redux
 1. Reactive Programming
@@ -18,4 +18,6 @@ My Creative Friday shares.
 1. [CSS Grid](./cf-css-grid/cf-css-grid.md)
 1. [How Https Protect our Secrets](./cf-https/keynote.md)
 
-TODO: 整理和补充之前的 shares。
+## TODO
+
+整理和补充之前的 shares。
