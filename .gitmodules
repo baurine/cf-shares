@@ -1,3 +1,6 @@
 [submodule "cf-react-redux/redux-demo"]
 	path = cf-react-redux/redux-demo
 	url = git@github.com:baurine/redux-demo.git
+[submodule "cf-android-arch/android-architecture-demo"]
+	path = cf-android-arch/android-architecture-demo
+	url = git@github.com:baurine/android-architecture-demo.git
