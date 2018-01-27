@@ -1,0 +1,3 @@
+[submodule "cf-react-redux/redux-demo"]
+	path = cf-react-redux/redux-demo
+	url = git@github.com:baurine/redux-demo.git

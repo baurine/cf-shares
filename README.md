@@ -1,12 +1,10 @@
 # Creative Friday Shares
 
-My Creative Friday shares.
-
-1. Introduce some sketch plugin and tool - measure, zeplin
-1. About Materail Design
+1. Introduce sketch plugin and tool - measure, zeplin
+1. Introduce Materail Design
 1. [Android Practice](./cf-android-practice)
 1. [React Native Introduce](./cf-react-native-intro)
-1. React & Redux
+1. [React & Redux](./cf-react-redux)
 1. Reactive Programming
 1. Vue Introduce
 1. GraphQL Introduce
