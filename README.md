@@ -8,16 +8,13 @@
 1. Reactive Programming
 1. Vue Introduce
 1. GraphQL Introduce
-1. [Android Dagger2 Introduce](./cf-dagger2/cf-dagger2.md)
 1. Android Databinding Introduce
+1. Android MVP
+1. [Android Dagger2 Introduce](./cf-dagger2/cf-dagger2.md)
 1. [Android Architecture Components Introduce](./cf-android-arch/keynote.md)
 1. [Modern JavaScript Part 1 - ES6](./cf-modern-js/cf-modern-js-1.md)
 1. [Modern JavaScritp Part 2 - Promise, Generator, Async / Await](./cf-modern-js/cf-modern-js-2.md)
 1. [CSS Grid](./cf-css-grid/cf-css-grid.md)
 1. [How Https Protect our Secrets](./cf-https/keynote.md)
 
-Ignore some internal shares.
-
-## TODO
-
-整理和补充之前的 shares。
+Ignore 2 internal shares.
