@@ -17,4 +17,20 @@
 1. [CSS Grid](./cf-css-grid/cf-css-grid.md)
 1. [How Https Protect our Secrets](./cf-https/keynote.md)
 
-Ignore 2 internal shares.
+Omit 2 internal shares.
+
+## Some tools to help make slides
+
+- [yanshuo.io](http://yanshuo.io/)
+- [reveal.js](https://github.com/hakimel/reveal.js/) / [slides.com](https://slides.com/)
+- [impress.js](https://github.com/impress/impress.js/)
+- [shower.js](https://github.com/shower/shower)
+- [GitPitch](https://github.com/gitpitch/gitpitch)
+- [marp](https://github.com/yhatt/marp)
+
+I don't use others except marp (it should be the most simple), but just record here in case maybe try them in the future.
+
+## Some tools to help draw charts
+
+- [draw.io](https://www.draw.io/)
+- [Paper](https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812?mt=8) (an iOS drawing app)
