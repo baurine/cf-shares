@@ -19,6 +19,22 @@
 
 Omit 2 internal shares.
 
+## Backlog
+
+Some candidate topics I would like to share (for junior developers or none-developers, won't dive into), some I know, some don't but I have interest to learn and share.
+
+- mobx
+- ant design / material ui
+- slack bot
+- electron
+- 小程序
+- PWA
+- rails webpacker
+- rails - render js / pajax / turbolinks
+- JWT
+- Firebase
+- BlockChain
+
 ## Some tools to help make slides
 
 - [yanshuo.io](http://yanshuo.io/)
