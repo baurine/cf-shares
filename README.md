@@ -16,6 +16,7 @@
 1. [Modern JavaScritp Part 2 - Promise, Generator, Async / Await](./cf-modern-js/cf-modern-js-2.md)
 1. [CSS Grid](./cf-css-grid/cf-css-grid.md)
 1. [How Https Protect our Secrets](./cf-https/keynote.md)
+1. [Practice react in rails](./cf-react-in-rails/keynote.md)
 
 Omit 2 internal shares.
 
@@ -29,7 +30,6 @@ Some candidate topics I would like to share (for junior developers or none-devel
 - electron
 - 小程序
 - PWA
-- rails webpacker
 - rails - render js / pajax / turbolinks
 - JWT
 - Firebase
