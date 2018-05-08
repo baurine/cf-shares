@@ -25,11 +25,21 @@ function close_fridge(fridge) {
   fridge.door_open = false
 }
 
-// 需要知道 fridge 的细节，而面向对象，无须，从而体现它的封装性
-// 你需要知道，冰箱有个门，可以开关，里面有个 icebox，可以用来装东西
 function inspect_fridge(fridge) {
   console.log(fridge.icebox);
 }
+
+/////////////////////////////////////////////////////
+let washmachine = {
+  container: [],
+  door_open: false
+}
+
+function open_washmachine(washmachine) {
+  washmachine.door_open = true
+}
+
+// ...
 
 function main() {
   console.log('start');
