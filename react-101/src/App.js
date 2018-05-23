@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import Counter from './Counter';
+
 // function Hello(props) {
 //   return <h1>Hello {props.name}</h1>
 // }
@@ -23,7 +25,10 @@ const Hello = ({name}) => (
 class App extends Component {
   render() {
     return (
-      <Hello name='ekohe'/>
+      <div>
+        <Hello name='ekohe'/>
+        <Counter/>
+      </div>
     );
   }
 }
