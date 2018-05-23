@@ -7,16 +7,25 @@ export default class Counter extends React.Component {
     super(props)
 
     this.state = {
-      cnt: 0
+      cnt: 5
     }
+  }
+
+  incCnt = () => {
+    const newCnt = this.state.cnt + 1
+    this.setState({cnt: newCnt})
+  }
+
+  decCnt = () => {
+    this.setState(prevState => ({cnt: prevState.cnt-1}))
   }
 
   render() {
     return (
       <div className='Counter-container'>
-        <button>-</button>
+        <button onClick={this.decCnt}>-</button>
         <strong>{this.state.cnt}</strong>
-        <button>+</button>
+        <button onClick={this.incCnt}>+</button>
       </div>
     )
   }
