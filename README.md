@@ -17,23 +17,29 @@
 1. [CSS Grid](./cf-css-grid/cf-css-grid.md)
 1. [How Https Protect our Secrets](./cf-https/keynote.md)
 1. [Practice react in rails](./cf-react-in-rails/keynote.md)
+1. [Firebase Introduction](./cf-firebase/cf-firebase.md)
 
 Omit 2 internal shares.
+
+Workshops:
+
+1. structured programming / object-orient programming / functional programming
+1. React 101 / 102
 
 ## Backlog
 
 Some candidate topics I would like to share (for junior developers or none-developers, won't dive into), some I know, some don't but I have interest to learn and share.
 
 - mobx
-- ant design / material ui
+- ant design
 - slack bot
 - electron
 - 小程序
 - PWA
 - rails - render js / pajax / turbolinks
 - JWT
-- Firebase
 - BlockChain
+- Bulma CSS
 
 ## Some tools to help make slides
 
