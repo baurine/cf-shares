@@ -54,7 +54,6 @@ class Fridge extends ContainerMachine {
     console.log('temperature:', this.temperature);
     super.inspect()
   }
-
 }
 
 class WashMachine extends ContainerMachine {
@@ -87,7 +86,6 @@ function main() {
   fridge1.run()
   fridge1.inspect()
   // 代码是不是简洁一些了呢
-
 
   // fridge 不需要知道内部实现，只需要知道接口
   const fridge2 = new Fridge(4)
