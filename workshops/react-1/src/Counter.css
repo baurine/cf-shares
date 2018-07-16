@@ -1,0 +1,8 @@
+.Counter-container {
+  margin: 40px;
+}
+
+.Counter-container strong {
+  margin: 10px;
+  font-size: 40px;
+}
