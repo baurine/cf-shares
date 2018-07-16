@@ -5,7 +5,7 @@ class Counter extends React.Component {
     super(props)
 
     this.state = {
-      cnt: 10
+      cnt: props.cnt
     }
   }
 

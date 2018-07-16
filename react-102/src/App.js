@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 import Counter from './Counter'
+import NameBox from './NameBox'
+import MovieList from './MovieList'
 
 // class Hello extends Component {
 //   constructor(props) {
@@ -28,11 +30,25 @@ import Counter from './Counter'
 const Hello = ({familyName, name}) => <h1>{familyName} {name}</h1>
 
 class App extends Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      showNameBox: true
+    }
+  }
+
   render() {
     return (
       <div>
         <Hello name='ekohe2000' familyName='react'/>
-        <Counter/>
+        <Counter cnt={5}/>
+
+        {
+          this.state.showNameBox &&
+          <NameBox/>
+        }
+
+        <MovieList/>
       </div>
     )
   }
