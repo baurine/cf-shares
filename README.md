@@ -23,8 +23,8 @@ Omit 2 internal shares.
 
 Workshops:
 
-1. structured programming / object-orient programming / functional programming
-1. React 101 / 102
+1. structured programming / object-oriented programming / functional programming
+1. React
 
 ## Backlog
 
