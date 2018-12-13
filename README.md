@@ -12,5 +12,6 @@ Develop:
 Build:
 
     $ yarn build
+    $ cp keynotes/*.png dist
 
-Build output is in `./dist` folder, you can open the `index.html` to run it locally.
+Build output is in `./dist` folder, you can open the `index.html` to run it locally, or deploy the dist folder to some static content host (netlify, aws s3 ...)

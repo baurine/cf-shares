@@ -5,8 +5,8 @@
   "author": "baurine <2008.hbl@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "mdx-deck keynote.mdx",
-    "build": "mdx-deck build keynote.mdx"
+    "start": "mdx-deck keynotes/keynote.mdx",
+    "build": "mdx-deck build keynotes/keynote.mdx"
   },
   "dependencies": {
     "mdx-deck": "^1.8.2"
