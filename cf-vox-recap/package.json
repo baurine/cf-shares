@@ -1,0 +1,14 @@
+{
+  "name": "cf-vox-recap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "baurine <2008.hbl@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck keynotes/keynote.mdx",
+    "build": "mdx-deck build keynotes/keynote.mdx"
+  },
+  "dependencies": {
+    "mdx-deck": "^1.8.2"
+  }
+}
