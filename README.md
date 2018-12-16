@@ -18,6 +18,16 @@
 1. [How Https Protect our Secrets](./cf-https/keynote.md)
 1. [Practice react in rails](./cf-react-in-rails/keynote.md)
 1. [Firebase Introduction](./cf-firebase/cf-firebase.md)
+1. [VoxMusic Web App Recap](./cf-vox-recap/README.md)
+   - SPA, No SSR, No SEO
+   - Language: [TypeScript](https://www.typescriptlang.org/)
+   - View Framework: [React](https://reactjs.org/)
+   - Components: [Ant Design](https://ant.design/index-cn)
+   - CSS: CSS Modules
+   - Router: [React Router](https://reacttraining.com/react-router/)
+   - State Management: [DVA](https://dvajs.com/)
+   - Bundler: [Webpacker](https://github.com/rails/webpacker)
+   - More: Folder Structure & Wrap API Request
 
 Omit 2 internal shares.
 
@@ -30,16 +40,15 @@ Workshops:
 
 Some candidate topics I would like to share (for junior developers or none-developers, won't dive into), some I know, some don't but I have interest to learn and share.
 
-- mobx
-- ant design
 - slack bot
 - electron
 - 小程序
 - PWA
-- rails - render js / pajax / turbolinks
-- JWT
 - BlockChain
-- Bulma CSS
+- Webpack
+- TypeScript
+- dva
+- Gatsby
 
 ## Some tools to help make slides
 
@@ -49,8 +58,9 @@ Some candidate topics I would like to share (for junior developers or none-devel
 - [shower.js](https://github.com/shower/shower)
 - [GitPitch](https://github.com/gitpitch/gitpitch)
 - [marp](https://github.com/yhatt/marp)
+- New choice: [mdx-deck](https://github.com/jxnblk/mdx-deck)
 
-I don't use others except marp (it should be the most simple), but just record here in case maybe try them in the future.
+~~I don't use others except marp (it should be the most simple), but just record here in case maybe try them in the future.~~ (Now I use mdx-deck)
 
 ## Some tools to help draw charts
 
