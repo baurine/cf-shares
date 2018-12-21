@@ -1,5 +1,6 @@
 export { yellow as theme } from 'mdx-deck/themes'
 import Content from './Content'
+import MyLayout from './MyLayout'
 
 # VoxMusic Web App Recap
 
@@ -21,7 +22,6 @@ so the vox music web app is used to help client to control which place, in which
 
 # [DEMO](https://vox.develop.ekohe.com/clients/1/locations/1/playlists)
 
-
 ```notes
 assume the client has a hotel, so we create a hotel location.
 
@@ -33,6 +33,7 @@ then we create a campaign to control which channel should play which playlist in
 
 that's all, then xiaoming's PC application will fetch these data, download the right tracks, and play it in proper time.
 ```
+
 ---
 
 ## The frontend technologies we used in VoxMusic
@@ -45,6 +46,7 @@ that's all, then xiaoming's PC application will fetch these data, download the r
 - Router: [React Router](https://reacttraining.com/react-router/)
 - State Management: [DVA](https://dvajs.com/)
 - Bundler: [Webpacker](https://github.com/rails/webpacker)
+- More: Folder Structure & Wrap API Request
 
 ```notes
 mainstream technologies
@@ -57,7 +59,7 @@ I will explain them one by one
 # [TypeScript](https://www.typescriptlang.org/)
 
 - Type check in compile time, not runtime, avoid some stuip `undefined` crash in runtime caused by typo
-- Code Intelligence
+- Code Intellisence
 - Convinent Refactor
 - Compile to JavaScript
 - ...
@@ -774,3 +776,9 @@ export function deleteClient(clientId: number) {
 # Thanks!
 
 # Q & A
+
+---
+
+export default MyLayout
+
+# Test Custom MDX-DECK Layout
