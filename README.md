@@ -35,6 +35,12 @@ Workshops:
 
 1. structured programming / object-oriented programming / functional programming
 1. React
+1. simple introduce Flutter
+1. [react training](https://github.com/baurine/react-training)
+   - es6
+   - TypeScript
+   - React
+   - Redux & redux-thunk & redux-saga & dva
 
 ## Backlog
 
@@ -46,8 +52,6 @@ Some candidate topics I would like to share (for junior developers or none-devel
 - PWA
 - BlockChain
 - Webpack
-- TypeScript
-- dva
 - Gatsby
 
 ## Some tools to help make slides
