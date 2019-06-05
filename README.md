@@ -1,4 +1,6 @@
-# Creative Friday Shares
+# My Shares
+
+## Creative Friday Shares in Ekohe
 
 1. Introduce sketch plugin and tool - measure, zeplin
 1. Introduce Materail Design
@@ -42,6 +44,10 @@ Workshops:
    - React
    - Redux & redux-thunk & redux-saga & dva
 
+## Shares in PingCAP
+
+1. [Gtasby introduction and step by step usage](https://github.com/baurine/gatsby-step-by-step)
+
 ## Backlog
 
 Some candidate topics I would like to share (for junior developers or none-developers, won't dive into), some I know, some don't but I have interest to learn and share.
@@ -50,9 +56,7 @@ Some candidate topics I would like to share (for junior developers or none-devel
 - electron
 - 小程序
 - PWA
-- BlockChain
 - Webpack
-- Gatsby
 
 ## Some tools to help make slides
 
@@ -61,10 +65,8 @@ Some candidate topics I would like to share (for junior developers or none-devel
 - [impress.js](https://github.com/impress/impress.js/)
 - [shower.js](https://github.com/shower/shower)
 - [GitPitch](https://github.com/gitpitch/gitpitch)
-- [marp](https://github.com/yhatt/marp)
+- Old choice: [marp](https://github.com/yhatt/marp)
 - New choice: [mdx-deck](https://github.com/jxnblk/mdx-deck)
-
-~~I don't use others except marp (it should be the most simple), but just record here in case maybe try them in the future.~~ (Now I use mdx-deck)
 
 ## Some tools to help draw charts
 
