@@ -47,6 +47,7 @@ Workshops:
 ## Shares in PingCAP
 
 1. [Gtasby introduction and step by step usage](https://github.com/baurine/gatsby-step-by-step)
+1. [Make a grafana panel plugin](https://github.com/baurine/my-simple-panel)
 
 ## Backlog
 
