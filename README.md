@@ -48,16 +48,7 @@ Workshops:
 
 1. [Gtasby introduction and step by step usage](https://github.com/baurine/gatsby-step-by-step)
 1. [Make a grafana panel plugin](https://github.com/baurine/my-simple-panel)
-
-## Backlog
-
-Some candidate topics I would like to share (for junior developers or none-developers, won't dive into), some I know, some don't but I have interest to learn and share.
-
-- slack bot
-- electron
-- 小程序
-- PWA
-- Webpack
+1. Monorepo Practice
 
 ## Some tools to help make slides
 
