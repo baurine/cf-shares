@@ -50,6 +50,8 @@ Workshops:
 1. [Make a grafana panel plugin](https://github.com/baurine/my-simple-panel)
 1. Monorepo Practice (2020/05)
 1. React Hooks (2020/07/30)
+1. TailwindCSS Intro (2021/03/11)
+1. Vite Intro (2021/05/13)
 
 ## Some tools to help make slides
 
@@ -60,6 +62,7 @@ Workshops:
 - [GitPitch](https://github.com/gitpitch/gitpitch)
 - Old choice: [marp](https://github.com/yhatt/marp)
 - New choice: [mdx-deck](https://github.com/jxnblk/mdx-deck)
+- [slidev](https://sli.dev/)
 
 ## Some tools to help draw charts
 
